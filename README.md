@@ -1,4 +1,4 @@
-# master
+# TCCM Master
 Codes for the master's degree
 
 - **huckel.f90**: Molecular orbital calculation for Huckel's systems
